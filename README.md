@@ -1,90 +1,77 @@
-<!-- Banner Image -->
+<!-- ✨ Aesthetic Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidhigarg24/sidhigarg24/main/banner.gif" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/lXUon2C.gif" alt="Welcome Banner" width="100%" />
 </p>
 
 ## Hi there 👋
 
-I'm **Sidhi Garg** — a detail-oriented **Full Stack Web Developer** passionate about creating efficient and user-friendly applications. I enjoy collaborating on impactful projects and continuously expanding my tech stack.
+I'm **Sidhi Garg** — a detail-oriented **Full Stack Web Developer** passionate about crafting user-friendly, scalable web applications. I love learning new technologies and bringing creative ideas to life through code.
 
 ---
 
-### 🧑‍💻 About Me
+### 🌟 About Me
 
-- 🔭 Currently working on: **Visionary Hub – an AI SaaS platform**
-- 🌱 Learning: **Advanced backend architecture & AI integration**
-- 👯 Collaborating on: **Open-source MERN & AI-based projects**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB**
-- 📫 Contact Me:  
-  [📧 sidhigargofficial20@gmail.com](mailto:sidhigargofficial20@gmail.com)  
-  [🔗 LinkedIn](https://www.linkedin.com/in/sidhi-garg-999932359/)
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love turning ideas into working products — and debugging is my superpower!
+- 🔭 Currently building: **Visionary Hub – AI SaaS App**
+- 🌱 Learning: **AI APIs, Advanced Backend Concepts**
+- 💬 Ask me about: **React, Node.js, MongoDB, Express**
+- 📫 Reach me at:  
+  📧 [sidhigargofficial20@gmail.com](mailto:sidhigargofficial20@gmail.com)  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/sidhi-garg-999932359/)
+- ⚡ Fun fact: I love clean UIs and organized code as much as coffee ☕
 
 ---
 
 ### 💼 Projects
 
-#### 🚀 Visionary Hub – Full Stack AI SaaS Application  
-_Feb 2025 – Apr 2025 | MERN Stack + Payment Gateway_
-- AI-powered Text-to-Image Generator using Clipdrop API
-- User authentication, credit-based image generation
-- Payment gateway integration & secure MongoDB storage
+#### 🧠 Visionary Hub – Full Stack AI SaaS App  
+_Feb 2025 – Apr 2025_  
+**Tech Stack:** MongoDB, Express, React, Node.js, Payment Gateway  
+- AI Text-to-Image generation using Clipdrop API  
+- Auth system with credits and payment gateway  
+- Secure image generation and data storage  
 
-#### 🛒 ShopNest – eCommerce Platform  
-_Jan 2025 – Mar 2025 | MERN Stack_
-- Feature-rich product browsing and filtering
-- COD & Razorpay integration
-- Admin dashboard for order/product management
+#### 🛒 ShopNest – Full-Stack eCommerce Platform  
+_Jan 2025 – Mar 2025_  
+**Tech Stack:** React.js, MongoDB, Express.js, Node.js  
+- User login, product filtering, and payment integration  
+- Admin dashboard to monitor orders and manage listings  
 
 #### 🛵 XpressFleet – Instant Product Delivery (Backend)  
-_Dec 2024 – Feb 2025 | Node.js, MongoDB, JWT, Socket.io_
-- Real-time delivery tracking with Socket.io
-- Secure login using JWT
-- API testing and performance optimization
+_Dec 2024 – Feb 2025_  
+**Tech Stack:** Node.js, MongoDB, JWT, Socket.io  
+- Real-time delivery tracking via Socket.io  
+- Auth with JWT & MongoDB, API testing with Postman  
 
 ---
 
 ### 🎓 Education
 
 **B.Tech – Chandigarh University**  
-📍 Mohali, India • 🎓 CGPA: 8.05 • 🗓️ Graduated: 2024
+📍 Mohali, India | 🎓 CGPA: 8.05 | 🗓️ Graduated: 2024
 
 ---
 
 ### 🏅 Certifications
 
-- 🥇 Certificate of Excellence in Frontend – *Coding Ninjas, 2025*
-- 🥇 Certificate of Excellence in Backend – *Coding Ninjas, 2025*
+- Certificate of Excellence in Frontend – *Coding Ninjas, 2025*  
+- Certificate of Excellence in Backend – *Coding Ninjas, 2025*
 
 ---
 
-### 💡 Skills
+### 🚀 Tech Stack
 
-**Languages & Frameworks:**  
-`Java` `JavaScript` `Node.js` `Express.js` `React.js` `Tailwind CSS` `HTML/CSS`  
+**Languages & Frameworks**  
+`Java` • `JavaScript` • `Node.js` • `Express.js` • `React.js` • `HTML/CSS` • `Tailwind CSS`  
 
-**Databases & APIs:**  
-`MongoDB` `REST APIs`  
+**Databases & APIs**  
+`MongoDB` • `REST API`  
 
-**Tools & Platforms:**  
-`VS Code` `GitHub` `Postman`
+**Tools**  
+`VS Code` • `GitHub` • `Postman`  
 
 ---
 
-### 🔥 GitHub Stats
-
+<!-- 👩‍💻 Aesthetic Coding GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhigarg24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhigarg24&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhigarg24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- Optional Tech Stack GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidhigarg24/sidhigarg24/main/coding.gif" width="400px" />
+  <img src="https://i.pinimg.com/originals/2b/3c/3e/2b3c3e1f8ef79fc28c89c5a637e7e29f.gif" alt="Coding Girl" width="350" />
 </p>
