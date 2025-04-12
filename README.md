@@ -1,7 +1,4 @@
-<!-- 🎉 Aesthetic Welcome Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Ogdq6E3.png" alt="Sidhi Garg - Full Stack Developer" width="100%" />
-</p>
+
 
 <!-- 👩‍💻 Coding Aesthetic GIF -->
 <p align="center">
